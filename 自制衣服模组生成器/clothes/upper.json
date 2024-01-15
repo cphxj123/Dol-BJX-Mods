@@ -1,7 +1,5 @@
-[
-]"		{index: 5,
-		name: &quot;xingyun&quot;,
-		name_cap: &quot;Xingyun&quot;,
+["		{index: 5,
+		name: &quot;xingyun&quot;,]		name_cap: &quot;Xingyun&quot;,
 		cn_name_cap: &quot;星云裙&quot;,
 		variable: &quot;xingyun&quot;,
 		integrity_max: 100,

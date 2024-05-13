@@ -1,2 +1,88 @@
-[
+[{index: 71,
+
+		name: "moonhairpin",
+
+		name_cap: "Moonhairpin",
+
+		cn_name_cap: "月的叹咏调头纱",
+
+		variable: "moonhairpin",
+
+		integrity_max: 500,
+
+		integrity: 500,
+
+		fabric_strength: 50,
+
+		reveal: 200,
+
+		bustresize: 0,
+
+		word: "a",
+
+		one_piece: 0,
+
+		strap: 0,
+
+		open: 0,
+
+		zip: 0,
+
+		plural: 0,
+
+		colour: 0,
+
+		colour_options: [],
+
+		colour_sidebar: 0,
+
+		colour_combat: 0,
+
+		exposed_base: 0,
+
+		exposed: 0,
+
+		type: ["normal", "formal", "cool", "rainproof", "eerie", "event"],
+
+		set: "moonhairpin",
+
+		gender: "f",
+
+		femininity: 100,
+
+		warmth: 10,
+
+		cost: 5000,
+
+		description: "一件带有紫色薄纱的头饰，在月光下闪闪发光。",
+
+		shop: ["clothing", "forest"],
+
+		accessory: 0,
+
+		accessory_colour: 0,
+
+		accessory_colour_options: [],
+
+		accessory_colour_sidebar: 0,
+
+		sleeve_img: 0,
+
+		sleeve_acc_img: 0,
+
+		breast_img: 0,
+
+		breast_acc_img: 0,
+
+		cursed: 0,
+
+		location: 0,
+
+		iconFile: "moonhairpin.png",
+
+		accIcon: 0,
+
+		mainImage: 1,
+
+}
 ]

